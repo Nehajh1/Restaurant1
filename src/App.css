@@ -1,4 +1,3 @@
-
 /* Import Rubik font from Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap');
 
@@ -532,7 +531,8 @@ color: black; /* Change text color when hovered */
   color: #f28c38;
   font-size: 14px;
   display: inline-block; /* ensures margin/padding applies properly */
-  margin-top: 10px; /* adjust the value to control spacing */
+  margin-top: 10px;/* adjust the value to control spacing */
+  margin-bottom: 40px;
 }
 
 
